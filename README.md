@@ -123,57 +123,122 @@ The majority of respondents express a preference for light roast coffee, indicat
 
 ### 7. Caffeine Preference in Coffee:
 
+![7](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/b3d17185-6b36-4c7c-b0fd-3230fbd264fb)
 
 An overwhelming majority of respondents (~88%) indicate a preference for full caffeine in their coffee. This preference reflects a desire for stronger and more stimulating beverages, highlighting the importance of ensuring consistency in caffeine content across product offerings.
 
 ### 8. Preference for Coffee Variants A, B, and C:
 
+![8](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/62af7153-7a38-4774-b5f7-e911f4caef20)
 
 Among the provided coffee variants, variant A emerges as the clear favorite among respondents when compared to options B and C. This preference may stem from factors such as flavor profile, aroma, or perceived quality, indicating the potential for variant A to resonate well with the target audience.
 
 ### 9. Preference for Coffee Variants A and D:
 
+![9](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/c9bba6d2-aaae-4485-82f5-0fe55b46d8c8)
 
 When given a choice between coffee variants A and D, the majority of respondents indicate a preference for variant D. This preference underscores the importance of offering diverse and differentiated product options to meet the varied preferences of consumers.
 
 ### 10. Overall Favorite Coffee Preference:
 
+![10](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/c5af5151-7bc0-43c0-b60d-dc0953890b90)
 
 When asked about their overall favorite coffee, a significant proportion of respondents (~37%) choose coffee variant D. This preference highlights the appeal of variant D's taste profile and suggests its potential to be a flagship product for Maven Coffee, catering to the preferences of a substantial portion of the target audience.
 
+#
+
+## Recommendation;
+### Q1. What type of customer should we target, and what are their preferences?
+#### Target Customer-
+Based on my previous analysis, our target customers could include individuals in the 25-34 age group who are full-time employees, of white ethnicity, and consume coffee twice a day. Tailoring our new coffee shop to their needs could lead to success in the market.
+
+#### Customer Preferences-
+ * Considering that the majority of respondents prefer to have coffee at home.
+
+ * Considering the majority of respondents preferences for coffee-making methods, they prefer Pour Over and Espresso .
+
+ * Analyzing the types of coffee preferred by respondents, Pour-over emerges as the favorite, followed by latte and regular drip coffee, collectively favored by over 50% of respondents.
+
+ * Based on taste preferences, majority of responded prefer fruity, chocolaty, and full-bodied flavors.
+
+ * Considering coffee roast preferences, majority of respondent prefer light roast, Additionally, approx 89% of total respondent prefer full caffeine coffee.
+
+ * When asked about their overall favorite coffee, the majority of respondents, comprising approximately 37% of the total respondents, chose coffee variant D.
+
+#
 
 
+### Q2. What types of coffee beans and drinks should we offer?
+#### Coffee Beans:
+ * Light Roast: We can offer Light Roast Beans As preferred by the majority of customers.
+
+ * Medium Roast: Offering a balanced flavor profile.
+
+ * Dark Roast: Catering to customers who prefer stronger, bolder flavors.
+
+#### Products:
+ * Based on our previous analysis, we can offer a selection of coffee drinks that includes Pour Over, Latte, and Regular Drip Coffee, as these were identified as the top favorite coffee choices among respondents. Additionally, we can enhance these offerings by incorporating various flavors to cater to diverse preferences.
+
+ * We can introduce fruity and chocolaty flavor options in our coffee selection, as these flavors are widely preferred by the majority of people. This addition will add an exciting twist to our menu and attract customers who enjoy indulgent and flavorful coffee experiences.
+
+ * Utilizing light roasted beans in our coffee preparation will ensure that our beverages maintain a delicate and nuanced flavor profile, appealing to those who appreciate the subtleties of coffee. This choice aligns with the preferences identified in our analysis.
+
+ * Furthermore, our coffee will be full caffeine to cater to the preference of approximately 90% of respondents who expressed a preference for full caffeine beverages. This ensures that our offerings meet the expectations of the majority of our target market, enhancing overall satisfaction and customer loyalty
+
+#
 
 
+## Pricing Understanding;
+Before devising a pricing strategy, it is imperative to gain an understanding of pricing dynamics and customer perceptions:
+
+### 1. Respondent Spending Habits;
+
+![11](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/0ad53375-be6b-4988-b926-23cbe2e02dd1)
+
+The majority of respondents demonstrate a tendency to spend between $6 to $8 and $8 to $10 per cup of coffee. Specifically, approximately 59% of the total respondents reported expenditures falling within these price ranges.
+
+### 2. Respondent Willingness to Pay for Coffee;
+
+![12](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/1ce001d5-a250-4dee-805b-9f70562b66fb)
+
+Furthermore, an analysis of respondent willingness to pay for coffee reveals significant insights. About 25% of the total respondents exhibit a readiness to pay $8 to $10 per cup. Additionally, 18.58% and 18.26% of respondents express willingness to spend $10 to $15 and $6 to $8 per cup of coffee, respectively.
+
+#
+
+## Pricing strategy;
+### Q3. How can we align prices with customer value perception?
+Our target audience spends $6-$8 and $8-$10 most frequently, representing 59% of respondents.
+
+#### Pricing Strategy:
+ * Core Menu: Price our popular coffee types (Pour-Over, Latte, Drip) within the $6-$8 range to capture the largest segment (59%) and establish value.
+
+ * Premium Options: Offer specialty coffees with unique flavor profiles, brewing methods (e.g., cold brew), or higher quality beans within the $8-$10 range. This caters to the 25% willing to pay more for perceived value.
+
+ * Luxury Experience: Consider a limited-edition coffee (variant D) or a premium subscription service priced at $10-$15 for a high-end experience. This targets the 18.58% willing to splurge.
+
+#
+
+### Conclusion:
+In conclusion, Maven Coffee is well-equipped to enter the US coffee market successfully, armed with a data-driven strategy tailored to meet the needs and preferences of its target audience. By leveraging insights from the analysis conducted in this project, Maven Coffee can position itself as a formidable player in the competitive coffee industry, poised for growth and success.
+
+This project is the result of over 13 days of hard work, and I invite you to 👍like, share, and connect with me on LinkedIn. [LinkedIn Link](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+
+Please also comment on how you found the project and any suggestions you may have.
+
+I hope scrolling through this project provides you with insightful understanding.
+
+Thank you for taking the time to view my project.
+
+#
 
 
+Created and Presented by-
 
+Saddam Ansari @Aspiring Data Analyst [LinkedIn Link](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 
+Location: India
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### THE END
 
 
 
