@@ -7,7 +7,24 @@
 ### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/maven-coffee-challenge-by-saddam-ansari)
 #
 
-## Objective
+## Table of Content
+ 1. [Objective](#objective)
+ 2. [About the Dataset](#about-the-dataset)
+ 3. [Data Formatting and Modifications](#data-formatting-and-modifications)
+ 4. [Dashboard Overview](#dashboard-overview)
+ 5. [Dashboard Top Section](#dashboard-top-section)
+ 6. [Respondent Demographic Understanding](#respondent-demographic-understanding)
+ 7. [Respondents Preference Understanding](#respondents-preference-understanding)
+ 8. [Recommendation](recommendation)
+ 9. [Pricing Understanding](pricing-understanding)
+ 10. [Pricing strategy](pricing-strategy)
+ 11. [Conclusion](conclusion)
+ 12. [End](the-end)
+
+#
+
+
+## Objective 
 The objective of The Maven Coffee Challenge is develop a business plan akin to an "Analytics Consultant" hired by a group of investors aiming to enter the US coffee market.
 
 They sought to utilize insights from "The Great American Coffee Taste Test" but lacked the necessary analytical skills. My task was to provide a data-driven strategy for launching their inaugural coffee shop. The 
@@ -18,6 +35,7 @@ investors were particularly interested in:
 
 Before proceeding further, I would like to provide an overview of the dataset used in this project and the changes made to it:
 
+[Home](table-of-content)
 ## About the Dataset:
 The project utilized a unique dataset containing survey responses from approximately 4,000 Americans.
 
