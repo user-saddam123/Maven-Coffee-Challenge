@@ -15,11 +15,11 @@
  5. [Dashboard Top Section](#dashboard-top-section)
  6. [Respondent Demographic Understanding](#respondent-demographic-understanding)
  7. [Respondents Preference Understanding](#respondents-preference-understanding)
- 8. [Recommendation](recommendation)
- 9. [Pricing Understanding](pricing-understanding)
- 10. [Pricing strategy](pricing-strategy)
- 11. [Conclusion](conclusion)
- 12. [End](the-end)
+ 8. [Recommendation](#recommendation)
+ 9. [Pricing Understanding](#pricing-understanding)
+ 10. [Pricing strategy](#pricing-strategy)
+ 11. [Conclusion](#conclusion)
+ 12. [End](#the-end)
 
 #
 
@@ -35,7 +35,7 @@ investors were particularly interested in:
 
 Before proceeding further, I would like to provide an overview of the dataset used in this project and the changes made to it:
 
-[Home](table-of-content)
+[Home](#table-of-content)
 ## About the Dataset:
 The project utilized a unique dataset containing survey responses from approximately 4,000 Americans.
 
@@ -43,9 +43,11 @@ This survey followed a blind coffee taste test conducted by James Hoffmann, a re
 
 ![Screenshot 2024-03-12 120111](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/8157a56f-ebd0-4dab-b061-d2dcc4c086c6)
 
+[Home](#table-of-content)
 ## Data Formatting and Modifications:
 Initially, the dataset was loaded into Power BI, where each column was aligned with its corresponding data type.
 
+[Home](#table-of-content)
 ### Handling Missing Values:
 Several key columns contained missing values, which were addressed as follows:
  1. "what is your age": 31 missing values were replaced with values from the 18-24 age range.
@@ -54,7 +56,7 @@ Several key columns contained missing values, which were addressed as follows:
  4. "where do you typically drink coffee (at home)": 63 missing values were replaced with "TRUE."
 
 #
-
+[Home](#table-of-content)
 ## Dashboard Overview:
 In response to the project request and problem statement, I have developed a single-page Power BI dashboard that encompasses each requested question along with corresponding recommendations.
 
@@ -74,6 +76,7 @@ Each section of the dashboard is designed to provide a holistic view of the data
 #
 Lets get started!
 #
+[Home](#table-of-content)
 ## Dashboard Top Section;
 
 ![Screenshot 2024-03-12 193020](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/a8a24ebc-aef3-4670-948a-99f5062f872a)
@@ -87,7 +90,7 @@ The top section of the dashboard aims to provide a visually appealing overview o
 These elements are designed to offer a quick and engaging glimpse into the challenge and its key components, facilitating easy navigation and understanding for users.
 
 #
-
+[Home](#table-of-content)
 ## Respondent Demographic Understanding;
 
 ![Screenshot 2024-03-13 091137](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/174d5c74-4f28-43a3-8f89-a125d2fff949)
@@ -100,7 +103,7 @@ Understanding demographics is essential in this project as it provides insights 
  5. Home emerges as the favored location for coffee consumption among the majority of respondents, suggesting a preference for convenience and comfort in their coffee-drinking experience.
 
 #
-
+[Home](#table-of-content)
 ## Respondents Preference Understanding;
 To identify our target customers, we first aim to understand their preferences to ascertain what they enjoy. Therefore, this preference understanding section will present insights based on respondents' preferences.
 
@@ -109,54 +112,62 @@ To identify our target customers, we first aim to understand their preferences t
 ![1](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/dd1f4925-498f-4d5b-8aa8-4f512bef3aae)
 
 Among the surveyed individuals, there's a clear inclination towards artisanal brewing methods. Pour-over stands out as the top choice, favored by a substantial proportion of respondents, followed closely by espresso and French press. This preference suggests a desire for carefully crafted and personalized coffee experiences.
-
+[Home](#table-of-content)
 ### 2. Purchase Preferences when Traveling:
 
 ![2](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/cfb43c11-9643-4e66-bbda-fddba5902497)
 
 When it comes to purchasing coffee while traveling, specialty coffee shops and national cafes are the preferred destinations for a significant majority of respondents. Although the origin of coffee purchase during travel seems less crucial, there's a noticeable inclination towards establishments offering specialty coffee offerings. This highlights the importance of focusing on unique and high-quality offerings to cater to consumer preferences.
 
+[Home](#table-of-content)
 ### 3. Respondents by Their Favorite Coffee Drink:
 
 ![3 ](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/24e9e8fd-5790-4854-b734-3cbaede03ef9)
 
 Pour-over stands out as the top preference, with 26.82% of respondents favoring it. Latte follows with 16.82% preference, while regular drip coffee is favored by 10.94% of respondents. Together, these three categories represent the preferred choices for over half of the surveyed individuals.
 
+[Home](#table-of-content)
 ### 4. Additions to Coffee:
 
 ![4](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/eb014343-6084-418b-8279-93c197fbbb55)
 
 Analysis indicates that a significant majority of respondents (~88%) prefer their coffee black, without any additions. However, there's a notable preference for adding milk or dairy among around 1700 respondents, while approximately 515 respondents prefer adding sugar. This insight underscores the importance of offering customizable options to accommodate varying preferences.
 
+v
 ### 5. Pre-Tasting Coffee Preferences:
 
 ![5 ](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/9b9185ec-51de-4fee-9f41-a6455dd7d275)
 Before the tasting session, it was observed that a majority of respondents have a preference for coffee with fruity flavors. This preference suggests a growing interest in lighter and more aromatic coffee profiles, signaling an opportunity to introduce blends with vibrant and fruity notes to cater to consumer tastes.
 
+[Home](#table-of-content)
 ### 6. Coffee Roast Preferences:
 
 ![6](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/df1ad6c6-8661-4653-a317-766bdf2de1ea)
 
 The majority of respondents express a preference for light roast coffee, indicating a desire for subtle flavors and higher acidity levels in their coffee. This preference aligns with the growing trend towards lighter roasts and emphasizes the importance of offering a diverse range of roast profiles to cater to different taste preferences.
 
+[Home](#table-of-content)
 ### 7. Caffeine Preference in Coffee:
 
 ![7](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/b3d17185-6b36-4c7c-b0fd-3230fbd264fb)
 
 An overwhelming majority of respondents (~88%) indicate a preference for full caffeine in their coffee. This preference reflects a desire for stronger and more stimulating beverages, highlighting the importance of ensuring consistency in caffeine content across product offerings.
 
+[Home](#table-of-content)
 ### 8. Preference for Coffee Variants A, B, and C:
 
 ![8](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/62af7153-7a38-4774-b5f7-e911f4caef20)
 
 Among the provided coffee variants, variant A emerges as the clear favorite among respondents when compared to options B and C. This preference may stem from factors such as flavor profile, aroma, or perceived quality, indicating the potential for variant A to resonate well with the target audience.
 
+[Home](#table-of-content)
 ### 9. Preference for Coffee Variants A and D:
 
 ![9](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/c9bba6d2-aaae-4485-82f5-0fe55b46d8c8)
 
 When given a choice between coffee variants A and D, the majority of respondents indicate a preference for variant D. This preference underscores the importance of offering diverse and differentiated product options to meet the varied preferences of consumers.
 
+[Home](#table-of-content)
 ### 10. Overall Favorite Coffee Preference:
 
 ![10](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/c5af5151-7bc0-43c0-b60d-dc0953890b90)
@@ -164,12 +175,13 @@ When given a choice between coffee variants A and D, the majority of respondents
 When asked about their overall favorite coffee, a significant proportion of respondents (~37%) choose coffee variant D. This preference highlights the appeal of variant D's taste profile and suggests its potential to be a flagship product for Maven Coffee, catering to the preferences of a substantial portion of the target audience.
 
 #
-
+[Home](#table-of-content)
 ## Recommendation;
 ### Q1. What type of customer should we target, and what are their preferences?
 #### Target Customer-
 Based on my previous analysis, our target customers could include individuals in the 25-34 age group who are full-time employees, of white ethnicity, and consume coffee twice a day. Tailoring our new coffee shop to their needs could lead to success in the market.
 
+[Home](#table-of-content)
 #### Customer Preferences-
  * Considering that the majority of respondents prefer to have coffee at home.
 
@@ -185,7 +197,7 @@ Based on my previous analysis, our target customers could include individuals in
 
 #
 
-
+[Home](#table-of-content)
 ### Q2. What types of coffee beans and drinks should we offer?
 #### Coffee Beans:
  * Light Roast: We can offer Light Roast Beans As preferred by the majority of customers.
@@ -194,6 +206,7 @@ Based on my previous analysis, our target customers could include individuals in
 
  * Dark Roast: Catering to customers who prefer stronger, bolder flavors.
 
+[Home](#table-of-content)
 #### Products:
  * Based on our previous analysis, we can offer a selection of coffee drinks that includes Pour Over, Latte, and Regular Drip Coffee, as these were identified as the top favorite coffee choices among respondents. Additionally, we can enhance these offerings by incorporating various flavors to cater to diverse preferences.
 
@@ -205,7 +218,7 @@ Based on my previous analysis, our target customers could include individuals in
 
 #
 
-
+[Home](#table-of-content)
 ## Pricing Understanding;
 Before devising a pricing strategy, it is imperative to gain an understanding of pricing dynamics and customer perceptions:
 
@@ -215,6 +228,7 @@ Before devising a pricing strategy, it is imperative to gain an understanding of
 
 The majority of respondents demonstrate a tendency to spend between $6 to $8 and $8 to $10 per cup of coffee. Specifically, approximately 59% of the total respondents reported expenditures falling within these price ranges.
 
+[Home](#table-of-content)
 ### 2. Respondent Willingness to Pay for Coffee;
 
 ![12](https://github.com/user-saddam123/Maven-Coffee-Challenge/assets/123800896/1ce001d5-a250-4dee-805b-9f70562b66fb)
@@ -222,7 +236,7 @@ The majority of respondents demonstrate a tendency to spend between $6 to $8 and
 Furthermore, an analysis of respondent willingness to pay for coffee reveals significant insights. About 25% of the total respondents exhibit a readiness to pay $8 to $10 per cup. Additionally, 18.58% and 18.26% of respondents express willingness to spend $10 to $15 and $6 to $8 per cup of coffee, respectively.
 
 #
-
+[Home](#table-of-content)
 ## Pricing strategy;
 ### Q3. How can we align prices with customer value perception?
 Our target audience spends $6-$8 and $8-$10 most frequently, representing 59% of respondents.
@@ -235,7 +249,7 @@ Our target audience spends $6-$8 and $8-$10 most frequently, representing 59% of
  * Luxury Experience: Consider a limited-edition coffee (variant D) or a premium subscription service priced at $10-$15 for a high-end experience. This targets the 18.58% willing to splurge.
 
 #
-
+[Home](#table-of-content)
 ### Conclusion:
 In conclusion, Maven Coffee is well-equipped to enter the US coffee market successfully, armed with a data-driven strategy tailored to meet the needs and preferences of its target audience. By leveraging insights from the analysis conducted in this project, Maven Coffee can position itself as a formidable player in the competitive coffee industry, poised for growth and success.
 
@@ -257,7 +271,7 @@ Saddam Ansari @Aspiring Data Analyst [LinkedIn Link](https://www.linkedin.com/in
 Location: India
 
 ### THE END
-
+[Home](#table-of-content)
 
 
 
